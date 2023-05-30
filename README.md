@@ -1,10 +1,5 @@
 <a name="readme-top"></a>
 
-<div align="center">
-
-  <h3><b>README</b></h3>
-
-</div>
 
 <!-- TABLE OF CONTENTS -->
 
